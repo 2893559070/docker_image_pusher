@@ -6,3 +6,10 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 nginx:latest
+nacos:1.4.1
+yapi:latest
+mongodb:latest
+mysql:8.0.36
+rabbitmq:3.12-management
+delron/fastdfs:tracker-6.09
+delron/fastdfs:storage-6.09
